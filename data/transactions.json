@@ -1,0 +1,78 @@
+{
+    "transactions":[{
+        "id": 1,
+        "transType": "PURCHASE",
+        "transDate": "2017-01-01",
+        "transAmount": 100.00
+    },
+    {
+        "id": 2,
+        "transType": "REFUND",
+        "transDate": "2017-01-02",
+        "transAmount": 50.00
+    },
+    {
+        "id": 3,
+        "transType": "PURCHASE",
+        "transDate": "2017-01-03",
+        "transAmount": 100.00
+    },
+    {
+        "id": 4,
+        "transType": "REFUND",
+        "transDate": "2017-01-04",
+        "transAmount": 50.00
+    },
+    {
+        "id": 5,
+        "transType": "PURCHASE",
+        "transDate": "2017-01-05",
+        "transAmount": 100.00
+    },
+    {
+        "id": 6,
+        "transType": "REFUND",
+        "transDate": "2017-01-06",
+        "transAmount": 50.00
+    },
+    {
+        "id": 7,
+        "transType": "PURCHASE",
+        "transDate": "2017-01-07",
+        "transAmount": 100.00
+    },
+    {
+        "id": 8,
+        "transType": "REFUND",
+        "transDate": "2017-01-08",
+        "transAmount": 50.00
+    },
+    {
+        "id": 9,
+        "transType": "PURCHASE",
+        "transDate": "2017-01-09",
+        "transAmount": 100.00
+    },
+    {
+        "id": 10,
+        "transType": "REFUND",
+        "transDate": "2017-01-10",
+        "transAmount": 50.00
+    },
+    {
+        "id": 11,
+        "transType": "PURCHASE",
+        "transDate": "2017-01-11",
+        "transAmount": 100.00
+    },
+    {
+        "id": 12,
+        "transType": "REFUND",
+        "transDate": "2017-01-12",
+        "transAmount": 50.00
+    }
+    ]
+}
+
+        
+    

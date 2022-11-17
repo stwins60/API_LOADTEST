@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  API_LOADTEST:
+      build: .
+      ports:
+        - "5000:5000"
+      volumes:
+        - .:/src
+      expose:
+        - "5000"
+      command: python app.py
+
